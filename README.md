@@ -1,4 +1,4 @@
-<h2> Help A Homie Out ! <2>
+<h2> Help A Homie Out ! </h2>
 
 Help my friend reach a good amount of stars on his python project called MultiBlox. In short terms its a roblox tool to join any roblox game with multiple accounts, no limit, super easy to use :
 
